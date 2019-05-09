@@ -1,1 +1,3 @@
 152*24 < Ground state degeneracy <152^4
+
+Degeneracy  = 12811
