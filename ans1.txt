@@ -1,0 +1,2 @@
+ln(Z)/N = 1.5147 (Tensor Network)
+        = 
