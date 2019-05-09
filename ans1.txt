@@ -1,2 +1,2 @@
-ln(Z)/N = 1.5147 (Tensor Network)
-        = 
+ln(Z)/N = 1.5147779725526995 (Tensor Network)
+ln(Z)/N =  (Monte Carlo)
